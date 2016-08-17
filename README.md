@@ -6,4 +6,4 @@ A LibreOffice Calc extension to create a "page view" to layout spreadsheets for 
 # Usage
 
 # Licence
-This software is copyright Alexandre Robert de Massy 2016 and released under licence APACHE v2.0.
+Copyright© 2016 Alexandre Robert de Massy, released under APACHE v2.0 licence.
